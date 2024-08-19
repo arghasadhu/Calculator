@@ -29,4 +29,3 @@ To run this project locally, you need a web browser (e.g., Chrome, Firefox, Safa
 ### Usage
 Visit the live website at [calculateyourself.netlify.app](https://calculateyourself.netlify.app) to use the calculator online.
 
-## Project Structure
